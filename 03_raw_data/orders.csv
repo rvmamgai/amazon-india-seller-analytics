@@ -1,0 +1,8 @@
+order_id,customer_id,order_date,order_status,payment_method,order_value
+401,301,2023-01-05,Delivered,UPI,22999
+402,302,2023-01-07,Cancelled,COD,0
+403,303,2023-02-10,Delivered,Card,3499
+404,304,2023-02-15,Returned,UPI,499
+405,305,2023-03-01,Delivered,NetBanking,1399
+406,306,2023-03-05,Delivered,COD,7999
+407,307,2023-03-10,Cancelled,UPI,1599
