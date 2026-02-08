@@ -1,0 +1,9 @@
+product_id,seller_id,product_name,category,sub_category,brand,mrp,selling_price,launch_date,fulfillment_type,product_status
+201,101,Samsung 32 Inch Smart TV,Electronics,Television,Samsung,24999,22999,2022-02-10,FBA,Active
+202,101,HP Wireless Mouse,Electronics,Accessories,HP,999,1099,2022-05-15,FBM,Active
+203,102,Men Cotton T-Shirt,Fashion,Topwear,LocalBrand,799,499,2023-03-18,FBM,Active
+204,103,Women Running Shoes,Fashion,Footwear,Nike,3999,3499,2021-12-01,FBA,Active
+205,104,Steel Water Bottle 1L,Home & Kitchen,Kitchen Storage,Milton,599,549,2022-07-01,FBM,Inactive
+206,105,Basmati Rice 5kg,Grocery,Food Grains,Daawat,1299,1399,2023-01-20,FBA,Active
+207,106,LED Ceiling Light,,Lighting,Wipro,1799,1599,2022-10-05,FBA,Active
+208,105,Office Chair Ergonomic,Home & Kitchen,Furniture,GreenSoul,8999,7999,2022-08-12,FBM,Active
