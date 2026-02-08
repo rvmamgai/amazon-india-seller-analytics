@@ -1,0 +1,8 @@
+inventory_id,product_id,seller_id,stock_available,reorder_level,warehouse_state,last_updated
+701,201,101,25,10,Haryana,2023-03-01
+702,202,101,5,20,Haryana,2023-03-01
+703,203,102,100,30,Rajasthan,2023-03-02
+704,204,103,0,15,Karnataka,2023-03-03
+705,205,104,50,20,Uttar Pradesh,2023-03-01
+706,206,105,200,50,Maharashtra,2023-03-02
+707,207,106,-10,20,Karnataka,2023-03-03
