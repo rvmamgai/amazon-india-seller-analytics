@@ -1,0 +1,7 @@
+seller_id,seller_name,seller_type,registration_date,seller_city,seller_state,seller_zone,account_status,gst_registered,gst_number
+101,Sharma Electronics,Professional,2022-01-15,Delhi,Delhi,North,Active,TRUE,07ABCDE1234F1Z5
+102,Gupta Traders,Individual,2023-03-10,Jaipur,Rajasthan,North,Active,FALSE,
+103,SouthStyle Fashion,Professional,2021-11-05,Bengaluru,Karnataka,South,Active,TRUE,29PQRSX5678L1Z9
+104,QuickKart Store,Individual,2022-06-22,Lucknow,Uttar Pradesh,North,Suspended,TRUE,09LMNOP9876Q1Z2
+105,UrbanNeeds,Professional,2023-01-01,Mumbai,Maharastra,West,Active,TRUE,27ABCDE9999Z1Z1
+106,HomeEssentials,Professional,2022-09-18,Indore,Madhya Pradesh,Central,Active,FALSE,
