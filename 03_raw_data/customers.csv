@@ -1,0 +1,8 @@
+customer_id,customer_name,city,state,region,signup_date,customer_type
+301,Amit Verma,Delhi,Delhi,North,2021-12-10,Prime
+302,Pooja Sharma,Jaipur,Rajasthan,North,2022-02-15,Non-Prime
+303,Rahul Mehta,Mumbai,Maharashtra,West,2021-11-01,Prime
+304,Sunita Devi,Patna,Bihar,East,2023-03-22,Non-Prime
+305,Arjun Nair,Kochi,Kerala,South,2022-08-05,Prime
+306,Neha Singh,Lucknow,Uttar Pradesh,North,2023-01-18,
+307,Vikram Rao,Bengaluru,Karnataka,South,2022-06-30,Prime
