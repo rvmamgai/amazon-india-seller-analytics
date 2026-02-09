@@ -231,11 +231,11 @@ These checks ensure **trustworthy insights**, not just visuals.
 
 ## 🧑‍💼 Interview Talking Points
 
-- Why SQL views were used instead of raw tables  
-- Why star schema was necessary for correct filtering  
-- How return rate was calculated using measures  
-- How data modeling issues were identified and resolved  
-- How business questions guided dashboard design  
+- Why SQL views were used instead of raw tables?  
+- Why star schema was necessary for correct filtering?  
+- How return rate was calculated using measures?  
+- How data modeling issues were identified and resolved?  
+- How business questions guided dashboard design?  
 
 ---
 
